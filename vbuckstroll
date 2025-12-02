@@ -1,0 +1,1 @@
+<!DOCTYPE html> <html> <head> <meta charset="UTF-8" /> <title>67 Alert</title> <script> // This runs when the page finishes loading window.onload = function () { alert("676767678676767676767676767"); }; </script> </head> <body> <h1>67 Alert Test</h1> <p>If you can see this, the alert should have already popped up.</p> </body> </html>
